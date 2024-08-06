@@ -23,5 +23,5 @@ This project contains an end-to-end test for GitHub login using Cypress.
    github_userPassword: 'your_github_userPassword'
    }
 
-※GitHub ログインテスト実装する前に認証がある場合は解除し
+※GitHub ログインテスト実装する前に2段階認証がある場合は解除し
 テスト実装するようにお願いします。
